@@ -1,4 +1,4 @@
-package com.yangtengfei.patterns.proxy.flyweight;
+package com.yangtengfei.patterns.flyweight;
 
 
 import com.sun.org.glassfish.gmbal.Description;

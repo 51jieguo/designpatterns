@@ -1,4 +1,4 @@
-package com.yangtengfei.patterns.proxy.flyweight;
+package com.yangtengfei.patterns.flyweight;
 
 import java.util.HashMap;
  

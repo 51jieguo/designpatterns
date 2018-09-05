@@ -1,4 +1,4 @@
-package com.yangtengfei.patterns.proxy.adapter;
+package com.yangtengfei.patterns.adapter;
 
 public class MediaAdapter implements MediaPlayer {
  

@@ -1,4 +1,4 @@
-package com.yangtengfei.patterns.proxy.flyweight;
+package com.yangtengfei.patterns.flyweight;
 
 public class Circle implements Shape {
    private String color;
